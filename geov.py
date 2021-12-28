@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import mapclassify as mc
 import numpy as np
 
-#%matplotlib inline
+
 
 pd.options.display.max_rows = 500
 pd.options.display.max_columns = 500
